@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "842987727303",
+    "firebase_url": "https://androidchatamr-default-rtdb.firebaseio.com",
+    "project_id": "androidchatamr",
+    "storage_bucket": "androidchatamr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842987727303:android:e7533725b2b1bfe0b9d1e2",
+        "android_client_info": {
+          "package_name": "com.example.administrator.podchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842987727303-53c1pr9f89rg395ubnfg7v1n18kc5i2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF7K5Qtl8LSwnem3EQ3fZYByHkmWjlKpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842987727303-53c1pr9f89rg395ubnfg7v1n18kc5i2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
